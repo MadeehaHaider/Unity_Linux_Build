@@ -1,4 +1,8 @@
 {
-  "certPath": "server.crt",
-  "keyPath": "server.key"
+  "cert": {
+    "path": "server.crt"
+  },
+  "key": {
+    "path": "server.key"
+  }
 }
