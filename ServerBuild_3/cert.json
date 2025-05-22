@@ -1,0 +1,4 @@
+{
+  "path": "/etc/letsencrypt/live/ws.bombs.fun/fullchain.pem",
+  "key": "/etc/letsencrypt/live/ws.bombs.fun/privkey.pem"
+}
