@@ -1,8 +1,0 @@
-{
-  "cert": {
-    "path": "server.crt"
-  },
-  "key": {
-    "path": "server.key"
-  }
-}
